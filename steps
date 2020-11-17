@@ -1,0 +1,19 @@
+step-1) It shows welcome window for face scanning system.
+
+step2) CLICK ON START SCANNING.
+
+step3) It will scan your video and do liveness detection by counting no. of eye blinks.
+
+step4) From scanned video, it will take one screenshot as no. of eye blinks reaches to count value 2.
+
+step5) Then system will perform face identification by finding match with the avaliable images inside the system.
+
+step6) The images inside the system will be accessed from our this self created bank website. It will access phone number, name of the user also.
+step7) This website stores all required bank details of the user such as account no., debit card_no., etc.
+
+step8) After face matching successfully, it will ask you for phone no. and amount u want to pay.
+
+step7) Then click submit button, and ur payment would be successful.
+
+NOTE : User must have account in this bank for using this facility
+NOTE:  System application would be installed in all branches of particular restaurants or malls like KFC and pacific. So they can take payment into their bank account.
